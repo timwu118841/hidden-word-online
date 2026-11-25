@@ -1,0 +1,10 @@
+node_modules
+**/node_modules
+**/dist
+.git
+.omc
+*.sqlite
+*.sqlite-*
+test-results
+playwright-report
+.env
